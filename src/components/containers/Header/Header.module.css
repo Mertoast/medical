@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  /* padding-right: 13.54166666666667rem; */
+  
+}
+
+.action {
+  display: flex;
+  align-items: center;
+
+  padding-left: 19.30555555555556rem;
+}

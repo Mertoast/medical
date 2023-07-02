@@ -1,0 +1,112 @@
+.layout {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100rem;
+    padding: 0 13.54166666666667rem;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    width: 72.91666666666667rem;
+    padding: 11.11111111111111rem 0;
+
+
+    flex-shrink: 0;
+}
+
+.position {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 72.56944444444444rem;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    width: 26.45833333333333rem;
+
+    gap: 2.430555555555556rem;
+
+    flex-shrink: 0;
+}
+
+.girls {
+    position: absolute;
+
+    width: 38.61111111111111rem;
+    height: 32.75076388888889rem;
+
+
+}
+
+.stat {
+    position: absolute;
+
+    width: 16.18055555555556rem;
+    height: 11.04166666666667rem;
+
+
+    /* top: 23.95833333333333rem; */
+}
+
+.checkmark {
+    position: absolute;
+
+    width: 1.597222222222222rem;
+    height: 1.527777777777778rem;
+}
+
+.chart {
+    position: absolute;
+
+    width: 9.166666666666667rem;
+    height: 9.166666666666667rem;
+
+    flex-shrink: 0;
+}
+
+.face {
+    position: absolute;
+
+    width: 1.458333333333333rem;
+    height: 1.388888888888889rem;
+
+    flex-shrink: 0;
+}
+
+.hands {
+    position: absolute;
+
+    width: 1.388888888888889rem;
+    height: 1.388888888888889rem;
+    flex-shrink: 0;
+}
+
+
+
+.action__position {
+    background-color: #26335D;
+    text-transform: uppercase;
+    color: #FC724D;
+
+}
+
+.position-polygon {
+    position: absolute;
+
+    padding: 3.5rem 0.1756944444444444rem 5.5625rem 10.368055555555556rem ;
+
+    width: 26.49569rem;
+    height: 26.49569rem;
+    flex-shrink: 0;
+}
